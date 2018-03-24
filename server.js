@@ -8,8 +8,8 @@ const followers = document.querySelector(".main__profile-followers")
 const following = document.querySelector(".main__profile-following")
 const unContainer = document.querySelector(".main__profile-username")
 
-const client_id = " Iv1.be7ffdefcc701382";
-const client_secret = "1e49463509a901e51a0207cf97a8dc0b8d00a258";
+const client_id = " Iv1.be7ffdsdfgddefccf7013812472";
+const client_secret = "1e49463509a901e51aas340245207cf97a8dc0b8d00a258";
 
 const fetchUser = async (user) => {
 
