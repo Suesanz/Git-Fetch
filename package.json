@@ -1,0 +1,21 @@
+{
+  "name": "gitinfo",
+  "version": "1.0.0",
+  "description": "Fetch Profile info from Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Git-fetch"
+  },
+  "author": "Sourav Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.3",
+    "node-sass": "^4.7.2",
+    "sass": "^1.0.0-rc.1"
+  }
+}
